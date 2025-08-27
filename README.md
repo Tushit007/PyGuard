@@ -66,4 +66,4 @@ To run the project
 
 ## AUTHOR
 
-[SUVAJIT-KARMAKAR](https://github.com/SUVAJIT-KARMAKAR)
+[Tushit007](https://github.com/Tushit007)
