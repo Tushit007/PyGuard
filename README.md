@@ -2,7 +2,7 @@
 # PyGuard
 #### PyGuard is a simple yet effective application designed to generate secure random passwords tailored to user specifications. It offers flexibility in password complexity by allowing users to include numbers and special characters.
 
-![LOGO](Resources/LOGO/PyGuard-LOGO.png)
+![LOGO](/PyGuard-LOGO.png)
 
 ## FEATURES
 
